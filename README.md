@@ -1,4 +1,4 @@
-📦 Update Your GitHub Page - Module 
+#Update Your GitHub Page - Module 
 
 Instructions
 Using the concepts we've covered in this module, make the following updates to your Resume repo that you've hosted using GitHub Pages.
